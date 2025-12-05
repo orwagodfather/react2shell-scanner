@@ -100,6 +100,10 @@ python3 scanner.py -u https://example.com --waf-bypass
 
 ## Credits
 
+The RCE PoC was originally disclosed by [@maple3142](https://x.com/maple3142) -- we are incredibly grateful for their work in publishing a working PoC.
+
+This tooling originally was built out as a safe way to detect the RCE. This functionality is still available via `--safe-check`, the "safe detection" mode.
+
 - Assetnote Security Research Team - [Adam Kues, Tomais Williamson, Dylan Pindur, Patrik Grobshäuser, Shubham Shah](https://x.com/assetnote)
 - [xEHLE_](https://x.com/xEHLE_) - RCE output reflection in resp header
 - [Nagli](https://x.com/galnagli)
