@@ -81,3 +81,5 @@ preview-data
 revalidate
 revalidate-token
 revalidate-secret
+en
+ar
